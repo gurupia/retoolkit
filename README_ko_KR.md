@@ -28,10 +28,22 @@ __Korean__ || [Türkçe](./README_tr_TR.md) || [Français](./README_fr_FR.md) ||
 wiki 보시면 상세한 리스트가 있습니다.참고로 거기서는 크랙된 소프트웨어는 찾을 수 없습니다.  
 제 환경에 설치해도 안전한가요?  
 
-이해가 안 돼요.포함된 일부 도구는 오픈 소스가 아니라 신뢰성이 낮은 위치에서 취득되었습니다.이것을 사용하는 경우는, 가상 머신내에서 전용으로 사용해, 자기 책임으로 부탁합니다.  
+이해가 안 돼요.  포함된 일부 도구는 오픈 소스가 아니라 신뢰성이 낮은 위치에서 취득되었습니다.이것을 사용하는 경우는, 가상 머신내에서 전용으로 사용해, 자기 책임으로 부탁합니다.  
 툴X를 추가할 수 있나요?  
 
 그건 상황에 따라 다릅니다.  
-아이디어는 단순하게 유지하는 것입니다.도구가 아직 존재하지 않는다고 해서 단지 그만한 이유로 추가하는 것은 아닙니다.  
+아이디어는 단순하게 유지하는 것입니다.  도구가 아직 존재하지 않는다고 해서 단지 그만한 이유로 추가하는 것은 아닙니다.  
 단, 이를 수행하기에 충분한 이유가 있다고 생각되는 경우, 라이선스가 소프트웨어 재배포를 허가하고 있는 경우, 아직 존재하지 않는 경우는  
-(https://github.com/mentebinaria/retoolkit/issues?q=label%3Atool-request+).
+(https://github.com/mentebinaria/retoolkit/issues?q=label%3Atool-request+).  
+
+## 변경사항
+
+See [CHANGELOG.md](CHANGELOG.md).
+
+## Similar projects
+
+우리는 다른 사람들이 자신만의 포크를 만들 수 있도록 영감을 준 retoolkit을 기쁘게 생각합니다:  
+
+* https://github.com/indetectables-net/toolkit is also focused on RE tools and include a nice autoupdater program.    
+* https://github.com/cristianzsh/forensictools is focused on forensic tools.
+
