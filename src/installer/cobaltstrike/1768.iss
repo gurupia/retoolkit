@@ -1,4 +1,4 @@
-; v0.0.20
+; v0.0.23
 ; https://blog.didierstevens.com/programs/cobalt-strike-tools/
 
 [Components]

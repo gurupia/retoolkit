@@ -41,8 +41,8 @@ Name: "debuggers\x64dbg\plugins\mapoanalyzer"; Description: "MapoAnalyzer"; Type
 Source: "{#MySrcDir}\debuggers\x64dbg\plugins\32\mapoanalyzer\*"; DestDir: "{app}\debuggers\x64dbg\release\x32\plugins"; Components: "debuggers\x64dbg\plugins\mapoanalyzer"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "{#MySrcDir}\debuggers\x64dbg\plugins\64\mapoanalyzer\*"; DestDir: "{app}\debuggers\x64dbg\release\x64\plugins"; Components: "debuggers\x64dbg\plugins\mapoanalyzer"; Flags: ignoreversion recursesubdirs createallsubdirs
 
-; Multiline Ultimate Assembler v2.3.6
-; https://github.com/m417z/Multiline-Ultimate-Assembler
+; Multiline Ultimate Assembler v2.3.7
+; https://ramensoftware.com/multimate-assembler
 [Components]
 Name: "debuggers\x64dbg\plugins\multiasm"; Description: "Multiline Ultimate Assembler"; Types: full compact;
 [Files]
@@ -52,7 +52,7 @@ Source: "{#MySrcDir}\debuggers\x64dbg\plugins\64\multiasm\*"; DestDir: "{app}\de
 [Icons]
 Name: "{app}\sendto+\sendto\Documentation\Multiline Ultimate Assembler"; Filename: "{app}\documentation\multiasm.chm"; Components: "debuggers\x64dbg\plugins\multiasm"
 
-; OllyDumpEx v1.84
+; OllyDumpEx v1.86
 ; http://low-priority.appspot.com/ollydumpex/
 [Components]
 Name: "debuggers\x64dbg\plugins\ollydumpex"; Description: "OllyDumpEx"; Types: full compact;

@@ -1,4 +1,4 @@
-; v3.0.4
+; v3.0.5
 ; https://github.com/echo-devim/fhex/
 
 [Components]

@@ -1,4 +1,4 @@
-; v7.0.20230928
+; Winpython64-3.12.9.0dot.7z
 ; https://github.com/winpython/winpython
 
 [Components]

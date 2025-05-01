@@ -1,4 +1,4 @@
-; v2.3.0
+; v3.1.1
 ; https://github.com/mandiant/flare-floss
 
 [Components]

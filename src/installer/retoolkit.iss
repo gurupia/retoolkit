@@ -1,5 +1,5 @@
 #define MyAppName "retoolkit"
-#define MyAppVersion "2023.10"
+#define MyAppVersion "2025.04"
 #define MyAppPublisher "Mente Binária"
 #define MyAppURL "https://github.com/mentebinaria/retoolkit"
 #define MySrcDir "d:\ret\"
@@ -18,10 +18,11 @@ DefaultGroupName={#MyAppName}
 ; PrivilegesRequired=lowest
 OutputBaseFilename={#MyAppName}_{#MyAppVersion}_setup
 WizardStyle=modern
-; Compression=none
+; Compression=lzma2/ultra
+DiskSpanning=yes
 SetupIconFile="..\..\assets\retoolkit.ico"
 UninstallDisplayIcon="{app}\sendto+\retoolkit.ico"
-ArchitecturesInstallIn64BitMode=x64
+ArchitecturesInstallIn64BitMode=x64os
 UsePreviousTasks=yes
 ChangesEnvironment=yes
 
@@ -121,7 +122,7 @@ Name: "pe"; Description: "PE Tools"; Types: full;
 #include "pe\peanatomist.iss"
 #include "pe\pebear.iss"
 #include "pe\pestudio.iss"
-#include "pe\pev.iss"
+#include "pe\readpe.iss"
 #include "pe\reshack.iss"
 #include "pe\stud_pe.iss"
 #include "pe\winapisearch.iss"
@@ -146,6 +147,7 @@ Name: "programming"; Description: "Programming"; Types: full;
 [Components]
 Name: "signature"; Description: "Signature"; Types: full;
 #include "signature\yara.iss"
+#include "signature\yarax.iss"
 
 [Components]
 Name: "systeminformation"; Description: "System Information"; Types: full;

@@ -1,5 +1,5 @@
-; v0.2
-; https://rammerlabs.alidml.ru/peanatomist.html
+; v0.2.13616.1740
+; https://rammerlabs.alidml.ru/download/peanatomist/current
 
 [Components]
 Name: "pe\peanatomist"; Description: "PEAnatomist"; Types: full;

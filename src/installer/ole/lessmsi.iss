@@ -1,4 +1,4 @@
-; v1.10.0
+; v2.7.0
 ; https://github.com/activescott/lessmsi
 
 [Components]

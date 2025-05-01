@@ -1,4 +1,4 @@
-; v3.1
+; v3.3
 ; https://github.com/leandrofroes/gftrace
 
 [Components]

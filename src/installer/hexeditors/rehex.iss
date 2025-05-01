@@ -1,4 +1,4 @@
-; v0.60.1
+; v0.62.1
 ; https://github.com/solemnwarning/rehex
 
 [Components]

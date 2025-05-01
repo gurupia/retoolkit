@@ -1,4 +1,4 @@
-; v5.2.3
+; v5.2.8
 ; http://www.angusj.com/resourcehacker/
 
 [Components]

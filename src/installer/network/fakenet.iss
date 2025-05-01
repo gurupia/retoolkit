@@ -1,4 +1,4 @@
-; v1.4.11
+; v3.5
 ; https://github.com/mandiant/flare-fakenet-ng
 
 [Components]
