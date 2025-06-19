@@ -1,4 +1,4 @@
-; v6.4.1
+; v6.5.1
 ; https://github.com/dnSpyEx/dnSpy
 
 [Components]

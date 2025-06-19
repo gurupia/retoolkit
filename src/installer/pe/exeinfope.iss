@@ -1,4 +1,4 @@
-; v0.0.8.0
+; v0.0.8.8
 ; https://github.com/ExeinfoASL/ASL
 
 [Components]

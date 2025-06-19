@@ -1,5 +1,3 @@
-__English__ || [Türkçe](./README_tr_TR.md) || [Français](./README_fr_FR.md) || [中文简体](./README_zh_CN.md) || [日本語](./README_jp_JP.md)
-
 # Reverse Engineer's Toolkit
 
 ## What?
@@ -39,5 +37,7 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 We're happy retoolkit inspired other people to create their own forks:
 
-* https://github.com/indetectables-net/toolkit is also focused on RE tools and include a nice autoupdater program.
 * https://github.com/cristianzsh/forensictools is focused on forensic tools.
+
+* https://github.com/indetectables-net/toolkit is also focused on RE tools and include a nice autoupdater program.
+

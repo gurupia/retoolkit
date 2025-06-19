@@ -1,4 +1,4 @@
-; v0.14.0
+; v1.0.1
 ; https://github.com/VirusTotal/vt-cli
 
 [Components]

@@ -1,4 +1,4 @@
-; v0.2.8
+; v0.2.10
 ; https://blog.didierstevens.com/programs/pdf-tools/
 
 [Components]

@@ -1,4 +1,4 @@
-; v0.3.6
+; v0.4.1
 ; https://github.com/hasherezade/pe-sieve/
 
 [Components]

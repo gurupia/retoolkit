@@ -1,5 +1,15 @@
 # retoolkit Changelog
 
+## 2025.04
+
+* Added:
+    * YARA-X.
+
+* Changes:
+    * pev was renamed to readpe.
+    * Setup program now is split into multiple files.
+   
+
 ## 2023.10
 
 * Added:

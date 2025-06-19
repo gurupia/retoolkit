@@ -1,4 +1,4 @@
-; v7.94
+; v7.95
 ; https://nmap.org/
 
 [Components]
@@ -9,8 +9,8 @@ Source: "{#MySrcDir}\network\nmap\*.exe"; DestDir: "{app}\network\nmap"; Compone
 
 ; nmap needs npcap, which doesn't support silent install mode, hence we prompt the user to interactively install it first
 [Run]
-Filename: "{app}\network\nmap\npcap-1.75.exe"; Components: "network\nmap"
-Filename: "{app}\network\nmap\nmap-7.94-setup.exe"; Parameters: "/S /D={app}\network\nmap"; Components: "network\nmap"
+Filename: "{app}\network\nmap\npcap-1.81.exe"; Components: "network\nmap"
+Filename: "{app}\network\nmap\nmap-7.95-setup.exe"; Parameters: "/S /D={app}\network\nmap"; Components: "network\nmap"
 
 ; create a Zenmap shortcut under Network folder
 [Icons]
